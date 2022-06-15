@@ -43,7 +43,7 @@ Can be explained by a wide range of factors which include climate change.
 
 ### Hurricanes
 
-<img class="sshs" src="../../media/saffir-simpson.webp" align="left"></img>
+<img class="sshs" src="https://upsidedly.github.io/geography/media/saffir-simpson.webp" align="left"></img>
 
 
 Hurricane season spans from June 01 to September 30 and Hurricanes can form in the
