@@ -1,0 +1,6 @@
+{
+  "name": "geo",
+  "scripts": {
+    "serve": "docsify serve ./docs"
+  }
+}
