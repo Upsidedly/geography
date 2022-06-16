@@ -43,7 +43,7 @@ Can be explained by a wide range of factors which include climate change.
 
 ### Hurricanes
 
-<img class="sshs" src="https://upsidedly.github.io/geography/media/saffir-simpson.webp" align="left"></img>
+<img class="sshs" src="../../geography/media/saffir-simpson.webp" align="left"></img>
 
 
 Hurricane season spans from June 01 to September 30 and Hurricanes can form in the
@@ -53,4 +53,7 @@ Hurricane season spans from June 01 to September 30 and Hurricanes can form in t
 and form under the conditions of low atmospheric preassure, warm waters, and tropical wind patterns.
 
 
+### Effects of a Hurricane on a Caribbean Country
 
+
+The hurricane could cause damage to property, infrastructure, injure and even kill people.
